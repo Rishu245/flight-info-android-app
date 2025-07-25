@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flight Info App</string>
+    <string name="flight_information">Flight Information</string>
+    <string name="flight_number">SK 1234</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="departure_airport">LHR</string>
+    <string name="arrival_airport">JFK</string>
+    <string name="departure_time">14:30</string>
+    <string name="arrival_time">18:45</string>
+    <string name="flight_details">Flight Details</string>
+    <string name="duration_label">Duration:</string>
+    <string name="duration_value">8h 15m</string>
+    <string name="aircraft_label">Aircraft:</string>
+    <string name="aircraft_value">Boeing 777</string>
+</resources>
